@@ -1,6 +1,4 @@
-# INFO 7374 Data Analysis Using Python - Final Project
-
-## Data Analysis on Death Records of United States
+# Data Analysis on Death Records of United States
 
 I have downloaded the dataset from Kaggle to perform my Analysis on **Death Records**
 
