@@ -129,8 +129,8 @@ Location Processed Data: <a href="https://github.com/Anurag0212/singh_Anurag_Spr
 * Out of those 80% males, Marital status of **71% of males** were **'Never Married, Single'**.
 
 **Statistics:**
-* Total Homicide Cases = 6639
-* Male =   5342      - 80.46%
-* Female=  1297      - 19.54%
+Total Homicide Cases = 6639
+Male =   5342      - 80.46%
+Female=  1297      - 19.54%
 
 **Never Married, Single Male = 3776**
