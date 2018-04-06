@@ -56,7 +56,7 @@ Location Processed Data: <a href="https://github.com/Anurag0212/singh_Anurag_Spr
 - There were only **588** cases where acciental victims werer dead on arrival to any medical center,clinic or Hospital, which is only **1.27%** of cases
 - From this analysis i can infere that the emegency response services in United states are faster and efficient.
 
-** Statistics from analysis 2:**
+**Statistics from analysis 2:**
 
     Total Accident Cases - 46072
     Dead on Arrival cases - 588
@@ -129,8 +129,9 @@ Location Processed Data: <a href="https://github.com/Anurag0212/singh_Anurag_Spr
 * Out of those 80% males, Marital status of **71% of males** were **'Never Married, Single'**.
 
 **Statistics:**
-Total Homicide Cases = 6639
-Male =   5342      - 80.46%
-Female=  1297      - 19.54%
+
+    Total Homicide Cases = 6639
+    Male =   5342      - 80.46%
+    Female=  1297      - 19.54%
 
 **Never Married, Single Male = 3776**
